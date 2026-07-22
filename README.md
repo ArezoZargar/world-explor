@@ -19,7 +19,7 @@ World Explorer is a Next.js project that allows users to explore countries aroun
 - Country details pages
 - Loading UI with loading.js
 - Custom 404 page with not-found.js
-- Dark mode
+- Dark mode & Light Mode
 - Favorite countries
 - Responsive design
 
@@ -30,22 +30,27 @@ World Explorer is a Next.js project that allows users to explore countries aroun
 - Country Details Page (/countries/[code])
 - Search Page (/search)
 - About Page (/about)
-
 ## API Used
 
-REST Countries API
+REST Countries API (v5)
 
-## Technologies
+World Explorer uses REST Countries API v5 to fetch real country information including names, flags, capitals, regions, population, languages, currencies, time zones, and maps.
 
-- Next.js
-- React
-- Tailwind CSS
-- JavaScript
-- REST API
-- Lucide Icons
+### Endpoints
+
+| Endpoint | Usage |
+|---|---|
+| GET /countries/v5 | Fetch all countries with cached data (static rendering) |
+| GET /countries/v5/codes.alpha_3/{code} | Fetch single country details with fresh data (dynamic rendering) |
+
+
+### API Website
+
+https://restcountries.com/
+
+
 
 ## Run Locally
 
-```bash
 npm install
 npm run dev
