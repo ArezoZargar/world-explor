@@ -57,7 +57,7 @@ Create a file named `.env.local` in the root directory and add:
 
 ```env
 REST_COUNTRIES_API_KEY=your_api_key_here
-
+```
 
 
 ### Run Locally
