@@ -90,12 +90,16 @@ REST_COUNTRIES_API_KEY=your_api_key_here
 
 ### About Page
 <img width="3082" height="4512" alt="localhost_3000_search (6)" src="https://github.com/user-attachments/assets/29c320ad-2089-4839-a7c5-f48d0f6e5b92" />
-<img width="3082" height="4512" alt="localhost_3000_about" src="https://github.com/user-attachments/assets/7cdd2c43-7dcd-46fb-8289-a60e075ef10e" />
+<img width="3082" height="4512" alt="localhost_3000_about" src="https://github.com/user-attachments/assets/8854ac5a-b8be-48e6-b1a6-c394c7554a9b" />
+
 
 ### Favorite Page
-<img width="3082" height="3418" alt="localhost_3000_about (1)" src="https://github.com/user-attachments/assets/0f5758f1-3b5e-40cd-96fc-0f3139e2f41b" />
+<img width="3082" height="3418" alt="localhost_3000_about (1)" src="https://github.com/user-attachments/assets/24cc66d8-98b4-4a50-94db-5ab8a1cc5cf0" />
+
 
 
 ### Responsive ...
-<img width="1170" height="6087" alt="localhost_3000_about(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/ba144b94-a9e8-461a-ab53-ceecf8498bd8" />
-<img width="1536" height="3214" alt="localhost_3000_about (2)" src="https://github.com/user-attachments/assets/72c6c7c7-159c-405b-8407-47f3939f7d76" />
+<img width="1170" height="6087" alt="localhost_3000_about(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/8ca6a5df-66d9-40a5-8632-59ad545c94ca" />
+
+<img width="1536" height="3214" alt="localhost_3000_about (2)" src="https://github.com/user-attachments/assets/6cb54aaa-d4cb-496c-a788-47705ea488cc" />
+
