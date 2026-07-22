@@ -62,5 +62,28 @@ REST_COUNTRIES_API_KEY=your_api_key_here
 
 ### Run Locally
 
-npm install
-npm run dev
+- npm install
+- npm run dev
+
+ ### ScreenShotes
+ ## Home Page
+ <img width="2048" height="2404" alt="localhost_3000_" src="https://github.com/user-attachments/assets/c34e74d0-5be9-449b-98f1-5d3ff233570b" />
+ <img width="2048" height="2404" alt="localhost_3000_ (1)" src="https://github.com/user-attachments/assets/9cd763c9-b881-490e-b8e1-14b5c2bbabba" />
+
+
+ ## Countries Page
+ 
+<img width="2760" height="16384" alt="localhost_3000_countries (2)" src="https://github.com/user-attachments/assets/264912ee-733e-446c-ac63-cd6e5cc039e7" />
+
+ <img width="2760" height="16384" alt="localhost_3000_countries (1)" src="https://github.com/user-attachments/assets/2f93a82b-1941-421e-b437-72b732dd24af" />
+
+
+
+## Country Detail Page
+<img width="2694" height="2862" alt="localhost_3000_countries_AFG" src="https://github.com/user-attachments/assets/320ceabc-4dec-4347-8df1-de203f9e1552" />
+<img width="2694" height="2862" alt="localhost_3000_countries_AFG (1)" src="https://github.com/user-attachments/assets/40adcfd7-c79b-4dfd-a022-906cb6fee472" />
+
+## Search Page 
+<img width="2694" height="16384" alt="localhost_3000_search" src="https://github.com/user-attachments/assets/0a71a663-ea1f-400a-9cc7-2820e6a0a14b" />
+
+
