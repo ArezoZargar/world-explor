@@ -49,7 +49,14 @@ World Explorer uses REST Countries API v5 to fetch real country information incl
 https://restcountries.com/
 
 
+## Environment Variables
 
+To connect with the REST Countries API v5, this project requires an API key.
+
+Create a file named `.env.local` in the root directory and add:
+
+```env
+REST_COUNTRIES_API_KEY=your_api_key_here
 ## Run Locally
 
 npm install
